@@ -25,5 +25,3 @@
   <a href = "mailto:iagosousalino84@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/iago-william-26406923a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-  https://github.com/will1001001/will1001001/blob/output/github-contribution-grid-snake.gif
-  ![snake gif](https://github.com/will1001001/will1001001/blob/output/github-contribution-grid-snake.gif)
